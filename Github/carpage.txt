@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+    <html>
+        <head>
+            <title>Car Page</title>
+        </head>
+            <body>
+                <center>
+                    <table>
+                        <tbody>
+                            <tr>
+                                <td>
+                                    <a href="FirstWebPage.html">
+                                        Home Page
+                                    </a>
+                                </td>
+
+                                <td>
+                                    <a href="hometown.html">
+                                        Home Town
+                                    </a>
+                                </td>
+
+                                <td>
+                                    <a href="petspage.html">
+                                        Pets Page
+                                    </a>
+                                </td>
+
+                                <td>
+                                    <a href="gamespage.html">
+                                        Games Page
+                                    </a>
+                                </td>
+                            </tr>
+                        </tbody>
+                    </table>
+                    <table>
+                        <tbody>
+                            <tr>
+                                <td>
+                                    <img src="img/camaros.jpg" alt="Camaros in the parking garage" style="width: 200px;height: 200px;">
+                                </td>
+
+                                <td>
+                                    <img src="img/camaro2.jpg" alt="Camaro at Walmart" style="width: 200px;height: 200px;">
+                                </td>
+
+                                <td>
+                                    <img src="img/camaro3.jpg" alt="Camaro getting washed" style="width: 200px;height: 200px;">
+                                </td>
+
+                                <td>
+                                    <img src="img/camaro4.jpg" alt="Camaro in the snow" style="width: 200px;height: 200px;">
+                                </td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </center>
+                     <p>I have a 2017 Camaro SS and I have a group of friends that I go on cruises with from time to time. Heres a 
+                         little information about us.
+                     </p>
+
+                        <ul>
+                            <li>
+                                Startin off we have my friend DJ and he has a
+                                 <a href="https://www.chevrolet.com/locate-inventory/camaro/details#?radius=500&filterconfigkey=Chevrolet-2022-Camaro&models=Camaro&years=2022&makes=Chevrolet&requestedPostalcode=73003&postalcode=73003&customSearchRadius=touched&scrollposition=650&brand=Chevrolet&open-panel=Hours&vin=1G1FJ1R6XN0110669&primarydealerdistance=4.5&bac=112378&dealerSearchBy=bac&primarydealerid=112378&primarydealerpostalcode=73114&primarydealername=BOB%20HOWARD%20CHEVROLET&primarydealerphone=4057487700">
+                                     2017 Camaro Z1l.
+                                </a>
+                            </li>
+                            <br>
+                            <li>
+                                Next we have my friend Jay and he has a
+                                <a href="https://www.chevrolet.com/locate-inventory/camaro/details#?radius=500&filterconfigkey=Chevrolet-2022-Camaro&models=Camaro&years=2022&makes=Chevrolet&requestedPostalcode=73003&postalcode=73003&customSearchRadius=touched&scrollposition=241.3333282470703&brand=Chevrolet&open-panel=Hours&open-panel=Trim&open-panel=Packages&trims=2SS&packageCodes=SCJ&vin=1G1FH1R73N0107097&primarydealerdistance=32.1&bac=298896&dealerSearchBy=bac&filternotmatchedstring=%7B%22value%22:%221LE%20Spec%20Suspension%20Package%22,%22code%22:%22SCJ%22%7D&filtermatchedstring=%7B%22value%22:%22Trim:%202SS%22,%22code%22:%222SS%22%7D&primarydealerid=298896&primarydealerpostalcode=73072&primarydealername=LANDERS%20CHEVROLET%20OF%20NORMAN&primarydealerphone=8552068129">
+                                    2020 Camaro 2SS 1le package.
+                                </a>
+                            </li>
+                            <br>
+                            <li>
+                                Then we have my friend Aaron and he has a 
+                                <a href="https://www.caranddriver.com/chevrolet/camaro/specs/2017/chevrolet_camaro_chevrolet-camaro-ss-coupe_2017">
+                                    2017 Camaro 1SS.
+                                </a>
+                            </li>
+                            <br>
+                            <li>
+                                Lastly we have my friend Mika and he has a 
+                                <a href="https://www.caranddriver.com/reviews/a15109588/2015-chevrolet-camaro-ss-1le-test-review/">
+                                    2015 Camaro 2SS 1le package
+                                </a>
+                                     but he also LS swaped it.
+                            </li>
+                        </ul>
+
+            </body>
+    </html>

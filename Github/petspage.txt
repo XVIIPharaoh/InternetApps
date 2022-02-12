@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+    <html>
+        <head>
+            <title> Pets Page</title>
+        </head>
+            <body>
+                <center>
+                
+                    <table>
+                        <tbody>
+                            <tr>
+                                <td>
+                                    <a href="FirstWebPage.html">
+                                        Home Page
+                                    </a>
+                                </td>
+
+                                <td>
+                                    <a href="carpage.html">
+                                        Car Page
+                                    </a>
+                                </td>
+
+                                <td>
+                                    <a href="hometown.html">
+                                        Home Town
+                                    </a>
+                                </td>
+
+                                <td>
+                                    <a href="gamespage.html">
+                                        Games Page
+                                    </a>
+                                </td>
+                            </tr>
+                        </tbody>
+                    </table>
+                        <h1>Pets</h1>
+                            <table>
+                                <tbody>
+                                    <tr>
+                                        <td>
+                                            <img src="img/bella.jpg" alt="Bella" style="width: 200px;height: 200px;">
+                                            
+                                        </td>
+
+                                        <td>
+                                            <img src="img/chief.jpg" alt="Cheif" style="width: 200px;height: 200px;">
+                                            
+                                        </td>
+
+                                        <td>
+                                            <img src="img/jazzy.jpg" alt="Jazzy" style="width: 200px;height: 200px;">
+                                            
+                                        </td>
+
+                                        <td>
+                                            <img src="img/cooper.jpg" alt="Cooper" style="width: 200px;height: 200px;">
+                                            
+                                        </td>
+
+                                        <td>
+                                            <img src="img/jeff.jpg" alt="Jeff" style="width: 200px;height: 200px;">
+                                            
+                                        </td>
+                                    </tr>
+                                </tbody>
+                            </table>
+
+                            
+                </center>
+                    <ul>
+                        <li>
+                            In the first picture we have Bella and she's a
+                            <a href="https://animalcorner.org/dog-breeds/teacup-chihuahua/#:~:text=Characteristics%20Of%20The%20Teacup%20Chihuahua%201%20Appearance.%20The,colors.%20...%204%20Temperament.%20...%205%20Lifespan.%20"> teacup-chihuahua</a>
+                            and everynow and then we dress her up in little outfits.
+                        </li>
+                            <br>
+                        <li>
+                            In the second picture we have Cheif and he's a 
+                            <a href="https://www.akc.org/dog-breeds/siberian-husky/">siberian husky</a>
+                            and he loves to dig holes in the backyard and annoying Caramel (the other husky).
+                        </li>
+                            <br>
+                        <li>
+                            In the third picture we have Jazzy and she's a
+                            <a href="https://www.akc.org/dog-breeds/west-highland-white-terrier/">west highland white terrier</a>
+                            and she would tear apart her toys and leave cotton everywhere.
+                        </li>
+                            <br>
+                        <li>
+                            In the fouth picture we have Cooper and he's a
+                            <a href="https://www.akc.org/dog-breeds/shih-tzu/">shih tzu</a>
+                            mixed the other breed. He's also a spokesman for Covid-19.
+                        </li>
+                            <br>
+                        <li>
+                            In the fifth picture we have Jeff/Jen and he/she a 
+                            <a href="https://www.aquariumsource.com/oscar-fish/">oscar fish</a>.
+                            We just got him/her a week ago so he/she doesn't have much of a story yet.                            
+                        </li>
+                    </ul>
+            </body>
+
+    </html>

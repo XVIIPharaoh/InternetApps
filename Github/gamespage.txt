@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+    <html>
+        <head>
+            <title>Games Page</title>
+        </head>
+            <body>
+                <center>
+                    <table>
+                        <tbody>
+                            <tr>
+                                <td>
+                                    <a href="FirstWebPage.html">
+                                        Home Page
+                                    </a>
+                                </td>
+
+                                <td>
+                                    <a href="hometown.html">
+                                        Home Town
+                                    </a>
+                                </td>
+
+                                <td>
+                                    <a href="petspage.html">
+                                        Pets Page
+                                    </a>
+                                </td>
+
+                                <td>
+                                    <a href="carpage.html">
+                                        Car Page
+                                    </a>
+                                </td>
+                            </tr>
+                        </tbody>
+                    </table>
+                    <h1>Games Page</h1>
+                    <table>
+                        <tbody>
+                            <tr>
+                                <td>
+                                    <img src="img/Xbox.jfif" alt="Xbox Logo" style="width: 200px;height: 200px;">
+                                </td>
+
+                                <td>
+                                    <img src="img/minecraft.jpg" alt="Minecraft" style="width: 200px;height: 200px;">
+                                </td>
+
+                                <td>
+                                    <img src="img/nintendo.jfif" alt="Nintendo" style="width: 200px;height: 200px;">
+                                </td>
+
+                                <td>
+                                    <img src="img/steamlogo.png" alt="Steam Logo" style="width: 200px;height: 200px;">
+                                </td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </center>
+                    <p>
+                        I've been playing videogames ever since I was a kid so I would consider myself a gamer. My favorite games are ---
+                    </p>
+
+                    <ul>
+                        <li>
+                            Minecraft
+                        </li>
+
+                        <li>
+                            No Man's Sky
+                        </li>
+
+                        <li>
+                            Grand Theft Auto Series
+                        </li>
+
+                        <li>
+                            Sea of Theives
+                        </li>
+
+                        <li>
+                            The Pokemon Series
+                        </li>
+
+                        <li>
+                            Player Unknown Battleground or PUBG for short
+                        </li>
+                    </ul>
+            </body>
+    </html>

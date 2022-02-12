@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+    <html>
+        <head>
+            <title> Home Town </title>
+        </head>
+            <body>
+                <center>
+                    <table>
+                        <tbody>
+                            <tr>
+                                <td>
+                                    <a href="FirstWebPage.html">
+                                    Home Page
+                                    </a>
+                                </td>
+
+                                <td>
+                                    <a href="carpage.html">
+                                    Car Page
+                                    </a>
+                                </td>
+                            
+                                <td>
+                                    <a href="petspage.html">
+                                    Pets Page
+                                    </a>
+                                </td>
+
+                                <td>
+                                    <a href="gamespage.html">
+                                    Games Page
+                                    </a>
+                                </td>
+                            </tr>
+
+                        </tbody>
+
+                    </table>
+                    
+                    <table>
+                        <tr>
+                            <td>
+                                <img src="img/neworleans.gif" alt="New Orleans" style="width: 250px; height: 250px;">
+                            </td>
+
+                            <td>
+                                <img src="img/ferry.jpg" alt="Ferry" style="width: 250px; height: 250px;">
+                            </td>
+
+                            <td>
+                                <img src="img/cityview.jpg" alt="City View" style="width: 250px; height: 250px;">
+                            </td>
+
+                            <td>
+                                <img src="img/mardigras.jpg" alt="Mardi Gras" style="width: 250px; height: 250px;">
+                            </td>
+                        </tr>
+                    </table>
+                </center>
+
+                <p>
+                    I was born in New Orleans,LA up until 2005. New Orlens has alot of culture inside of the city
+                    one big annual fesival is called 
+                    <a href="https://www.mardigrasneworleans.com/"> Mardi Gras </a> 
+                    . It's big parade when people dress up and get on 
+                    <a href="https://www.mardigrasneworleans.com/parades/mardi-gras-floats"> floats </a>
+                    and throw gifts from them. New Orleans also have a 
+                    <a href="https://www.neworleans.com/plan/transportation/algiers-ferry/"> ferry </a>
+                    you can take arcoss the river.I moved from New Orleans at a young age in August 
+                    2005 after hurricane Katrina. So now I live in Houston,TX.
+                </p>
+            </body>
+    </html>

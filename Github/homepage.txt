@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+    <html>
+        <head>
+            <title> Home Page </title>
+        </head>
+            <body>
+                <center>
+                    <h1> Home Page </h1>
+                    <p> Hello my name is Shawn and here a little insight of my life</p>
+
+                    <table>
+                        <tbody>
+                            <tr>
+                                <td>
+                                    <a href="carpage.html">
+                                    <img src="img/camaros.jpg" alt="Camaro" style="width: 200px;height: 200px;">
+                                    </a>
+                                </td>
+
+                                <td>
+                                    <a href="hometown.html">
+                                    <img src="img/louisiana.png" alt="Louisiana" style="width: 200px;height: 200px;">
+                                    </a>
+                                </td>
+
+                                <td>
+                                    <a href="petspage.html">
+                                    <img src="img/chief.jpg" alt="Chief" style="width: 200px;height: 200px;">
+                                    </a>
+                                </td>
+
+                                <td>
+                                    <a href="gamespage.html">
+                                    <img src="img/contollers.jpg" alt="Controllers" style="width: 200px;height:200px;">
+                                    </a>
+                                </td>
+                            </tr>
+                
+                            <tr>
+                                <td>
+                                    <a href="carpage.html">
+                                        Car Page 
+                                    </a>
+                                    
+                                </td>
+
+                                <td>
+                                    <a href="hometown.html">
+                                        Home Town
+                                    </a>
+                                </td>
+
+                                <td>
+                                    <a href="petspage.html">
+                                        Pets Page
+                                    </a>
+                                </td>
+
+                                <td>
+                                    <a href="gamespage.html">
+                                        Game Page
+                                    </a>
+                                </td>
+                            </tr>
+            
+
+                        </tbody>
+                    </table>
+                </center>
+            </body>
+    </html>
+    
